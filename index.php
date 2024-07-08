@@ -19,7 +19,7 @@
     <!-- navigasi bar -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary sticky-lg-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#"><img src="assets/image/edukonselor.png" alt="Edukonselor" width="250" height="45"></a>
+        <a class="navbar-brand" href="#"><img src="image/edukonselor.png" alt="Edukonselor" width="250" height="45"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -64,7 +64,7 @@
               <div class="card">
                 <div class="card-body">
                   <span class="fa-stack fa-2x">
-                    <img src="assets/image/DKV.jpg" width=60 height=60>
+                    <img src="image/DKV.jpg" width=60 height=60>
                   </span>
                   <h5 class="text-setting">Desain Komunikasi Visual</h5>
                   <p class="card-text">Desain Komunikasi Visual (DKV) adalah bidang studi yang berfokus pada penggunaan elemen visual untuk menyampaikan pesan atau informasi. Ini mencakup berbagai aspek seperti grafis, ilustrasi, tipografi. 
@@ -76,7 +76,7 @@
               <div class="card">
                 <div class="card-body">
                   <span class="fa-stack fa-2x">
-                    <img src="assets/image/BCP.jpg" width=60 height=60>
+                    <img src="image/BCP.jpg" width=60 height=60>
                   </span>
                   <h5 class="text-setting">Broadcasting dan Perfilman</h5>
                   <p class="card-text">Jurusan Broadcasting/Perfilman di Sekolah Menengah Kejuruan (SMK) adalah program pendidikan yang dirancang untuk mempersiapkan siswa menjadi tenaga profesional di bidang penyiaran dan perfilman.
@@ -90,7 +90,7 @@
               <div class="card">
                 <div class="card-body">
                   <span class="fa-stack fa-2x">
-                    <img src="assets/image/mesin.jpg" width=60 height=60>
+                    <img src="image/mesin.jpg" width=60 height=60>
                   </span>           
                   <h5 class="text-setting">Teknik Mesin</h5>
                   <p class="card-text">Teknik Mesin adalah jurusan yang mempelajari berbagai aspek terkait perancangan, produksi, dan perawatan mesin.
@@ -102,7 +102,7 @@
               <div class="card">
                 <div class="card-body">
                   <span class="fa-stack fa-2x">
-                    <img src="assets/image/otomotif.jpg" width=60 height=60>
+                    <img src="image/otomotif.jpg" width=60 height=60>
                   </span>            
                   <h5 class="text-setting">Teknik Otomotif</h5>
                   <p class="card-text">Jurusan Teknik Otomotif di SMK adalah program pendidikan yang dirancang untuk menghasilkan tenaga terampil di bidang perawatan dan perbaikan kendaraan bermotor. 
