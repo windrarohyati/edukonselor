@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+}
+.display-6
+{
+    color:#219BC0;
+}
+.print-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.print-button:hover {
+    background-color: #45a049;
+}
+@media print {
+    .no-print {
+        display: none;
+    }
+}
